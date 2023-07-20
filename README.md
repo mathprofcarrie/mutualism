@@ -1,5 +1,9 @@
 # Theoretical models of obligate mutualism to link micro- with macro-coevolutionary dynamics
 
+## Description
+
+## File structure
+
 ```bash
 |____Code
 | |____Fig1_3DPhasePortrait.R
